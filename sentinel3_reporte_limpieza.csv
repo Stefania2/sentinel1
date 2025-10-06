@@ -1,0 +1,2 @@
+filas_originales,columnas,duplicados_eliminados,coords_invalidas_eliminadas,geometrias_invalidas_eliminadas,filas_finales,filas_eliminadas_total,archivo
+10,10,4,0,0,6,4,sentinel3_geometrias.csv
