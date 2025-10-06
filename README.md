@@ -31,16 +31,7 @@ El objetivo principal es automatizar el flujo de trabajo para la obtención, val
 - Conexión a internet para acceder a los servicios de ASF
 
 ---
-
-## Instalación
-
-### 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/tuusuario/sentinel1.git
-cd sentinel1
-
-Referencias
+## Base de datos
 
 ASF Search API Documentation:
 🔗 https://docs.asf.alaska.edu/asf_search/basics/
@@ -50,3 +41,13 @@ Shapely Geometry Tools:
 
 Matplotlib:
 🔗 https://matplotlib.org/stable/
+
+## Instalación
+
+### Clonar el repositorio
+
+```bash
+git clone https://github.com/tuusuario/sentinel1.git
+cd sentinel1
+
+
